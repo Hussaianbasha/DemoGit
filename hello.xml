@@ -1,3 +1,7 @@
 IN
+<<<<<<< HEAD
 <employee><domain>ADM</domain></employee>
+=======
+<employee><name>hussain</name></employee>
+>>>>>>> br1
 
